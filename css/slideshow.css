@@ -24,7 +24,7 @@
     transition: all 0.3s ease-in-out;
     width: 420px;
     height: auto;
-    max-height: 200px;
+    max-height: 201px;
     overflow-y: auto;
     clip-path: polygon(0 0, 100% 0, 100% 90%, 50% 100%, 0 90%);
     box-shadow: inset 0px 0px 20px 10px rgba(255,255,255,0.8);
